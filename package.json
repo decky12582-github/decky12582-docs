@@ -1,0 +1,25 @@
+{
+  "name": "docusaurus",
+  "version": "1.0.0",
+  "description": "decky12582 docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "decky12582-github",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6",
+    "npx": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decky12582-github/docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/decky12582-github/docs/issues"
+  },
+  "homepage": "https://github.com/decky12582-github/docs#readme"
+}
